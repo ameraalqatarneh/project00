@@ -1,0 +1,16 @@
+Git Workflow
+
+1. Edit
+I created and edited the README.md file.
+
+2. Add
+I added the changes to the staging area using:
+git add README.md
+
+3. Commit
+I saved the changes in Git using:
+git commit -m "add README"
+
+4. Push
+I uploaded the committed changes to GitHub using:
+git push
